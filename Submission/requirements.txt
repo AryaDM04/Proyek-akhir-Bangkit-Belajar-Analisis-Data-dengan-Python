@@ -1,8 +1,10 @@
 zipfile
 os
-pandas
-numpy
-seaborn
 folium
 streamlit
-matplotlib
+matplotlib==3.9.2
+numpy==2.1.1
+pandas==2.2.3
+seaborn==0.13.2
+streamlit==1.39.0
+babel==2.16.0

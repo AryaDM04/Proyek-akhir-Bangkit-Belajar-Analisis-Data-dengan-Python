@@ -1,1 +1,9 @@
-
+zipfile
+os
+pandas
+numpy
+matplotlib.pyplot
+matplotlib.dates
+seaborn
+folium
+streamlit
